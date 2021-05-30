@@ -1,0 +1,2 @@
+cd /Users/abashirshaikh/Documents/DocumentsBkup/Documents/Anas/PracticeWorkspace_Appium/Ecommerce_SeleniumAutomation/inetBankingV1
+mvn clean install
